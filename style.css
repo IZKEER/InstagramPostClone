@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Source Sans Pro',
+        sans-serif;
+
+}
+
+body {
+    font-size: 13px;
+    display: flex;
+    justify-content: center;
+}
+
+.main-wrapper {
+    box-shadow: 7px 10px #888888;
+    border: 5px solid rgb(55, 54, 53);
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 25px;
+}
+
+header {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid rgb(61, 60, 60);
+    padding: 12px 15px;
+    align-items: center;
+}
+
+.container {
+    width: 375px;
+    margin: 0px auto;
+}
+
+.logo-img {
+    width: 127px;
+}
+
+.user-img {
+    width: 35px;
+    border-radius: 50%;
+}
+
+.poster-wrapper {
+    padding: 5px;
+}
+
+.poster-container {
+    display: inline-block;
+    align-items: center;
+    line-height: 2px;
+    padding: 3px;
+}
+
+/* MAIN PICTURE */
+
+.posted-picture {
+    width: 100%;
+}
+
+/* After Main image icons */
+
+.icons-wrapper {
+    display: inline-block;
+}
+
+.icons {
+    margin: 7px;
+    width: 22.38px;
+}
+
+.icons:hover {
+    opacity: 20%;
+}
+
+/* ROOTS */
+
+.small-font {
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.medium-bold-font {
+    font-weight: 700;
+}
