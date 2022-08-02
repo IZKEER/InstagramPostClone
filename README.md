@@ -2,7 +2,7 @@
 
 ### Screenshot
 
-![](print\print.png)
+![](print/print.png)
 
 ## [live website](https://izkeer.github.io/ChromeExtension/)
 ## My process
