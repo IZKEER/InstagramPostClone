@@ -4,7 +4,7 @@
 
 ![](print/print.png)
 
-## [live website](https://izkeer.github.io/ChromeExtension/)
+## [live website](https://izkeer.github.io/InstagramPostClone/)
 ## My process
 
 This is a solo challenge presented by Scrimba FrontEnd career path.
