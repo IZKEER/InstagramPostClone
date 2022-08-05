@@ -12,7 +12,7 @@ It has the goal of sharpening HTML Semantic skills and CSS DRY styles, like reus
 
 ### How the project works
 
-The project doesn't really works... It is simply an static clone website.
+The project doesn't really works... It is simply a static clone website. 😊
 
 ### Built with
 
